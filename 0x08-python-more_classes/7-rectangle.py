@@ -76,4 +76,4 @@ class Rectangle:
         rectangle is deleted
         """
         Rectangle.number_of_instances -= 1
-        print("Bye rectangle...")
+        print( "Bye rectangle..." )
